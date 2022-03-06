@@ -1,0 +1,3 @@
+[submodule "nodeproto"]
+	path = nodeproto
+	url = https://github.com/noahehall/nodeproto
